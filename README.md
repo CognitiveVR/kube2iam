@@ -6,7 +6,7 @@
 
 # kube2iam
 
-Provide IAM credentials to containers running inside a kubernetes cluster based on annotations.
+Provide IAM credentials to containers running inside a kubernetes cluster based on annotations
 
 # Fork information
 The original repo over at https://github.com/jtblin/kube2iam is no longer being updated. This is a fork from msiuts which includes a fix for supporting IMDSv2 and has some dependency updates
